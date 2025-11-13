@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mahmoud-aboelfadl-2016.netlify.app/sitemap.xml
